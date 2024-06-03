@@ -16,7 +16,7 @@ const goToRepoList = () => {
     <div class="md:w-2/5 sm:mt-0 mx-auto">
       <img :src='Hello' alt="Hello" >
     </div>
-    <button @click="goToRepoList" class="h-10 w-28 rounded-md bg-blue-600 px-4 text-xl font-semibold leading-6 text-white shadow-sm hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600">Continue</button>
+    <button @click="goToRepoList" class="h-10 w-28 mt-10 rounded-md bg-blue-600 px-4 text-xl font-semibold leading-6 text-white shadow-sm hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600">Continue</button>
     
 
   </main>
